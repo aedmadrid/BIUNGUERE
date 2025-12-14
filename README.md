@@ -21,4 +21,3 @@ Como limitaciones impuestas, hemos abrazado el suprarreciclaje, que busca a part
 En nuestra escuela, tenemos bastantes restos del proyecto de “Entre Árboles”, usaremos estos elementos para generar estructura.
 
 Usaremos mayormente los deshechos que se además se puedan adquirir en cualquier otra parte para que no se quede en un proyecto de una vez, sino en una iniciativa atemporal que perdure.
-```
