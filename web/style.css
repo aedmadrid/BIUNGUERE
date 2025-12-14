@@ -16,6 +16,7 @@
         "Open Sans",
         "Helvetica Neue",
         sans-serif;
+    user-select: none;
 }
 body {
     height: calc(100vh - var(--TopPX));
