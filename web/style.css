@@ -16,11 +16,12 @@
         "Open Sans",
         "Helvetica Neue",
         sans-serif;
+
     user-select: none;
 }
 body {
     height: calc(100vh - var(--TopPX));
-    background-image: url("back.png");
+    background-image: url("back.jpg");
     margin: 0;
     padding: 0;
     background-size: cover;
@@ -29,6 +30,7 @@ body {
     align-items: center;
     justify-content: center;
     margin-top: var(--TopPX);
+    color: white;
 }
 #cursor {
     background-image: url("cursor.png");
@@ -55,4 +57,12 @@ body {
     flex-direction: row;
     align-items: baseline;
     justify-content: space-between;
+}
+
+p {
+    background-color: black;
+}
+h1 {
+    background-color: #fec61b;
+    color: black;
 }
